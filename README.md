@@ -1,6 +1,6 @@
-# This image is being DEPRECATED.
+# This image is DEPRECATED/DEAD.
 
-See github.com/devoply/wordpress for a newer image with a proper process manager.
+See [https://github.com/devoply/wordpress](https://github.com/devoply/wordpress) for a newer image with a proper process manager.
 
 ### OLD INFO
 
