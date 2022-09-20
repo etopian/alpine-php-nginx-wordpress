@@ -1,4 +1,8 @@
-##### This image is being maintained. Fork it and change it fit your needs. Upgrade your site using the upgrade strategy on wordpressdocker.com
+# This image is being DEPRECATED.
+
+See github.com/devoply/wordpress for a newer image with a proper process manager.
+
+### OLD INFO
 
 Full documentation for this project can be found here: http://www.wordpressdocker.com/
 
